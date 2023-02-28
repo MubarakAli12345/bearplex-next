@@ -10,7 +10,7 @@ import Home7 from "../components/home7";
 function About() {
   return (
     <>
-      <div className="h-[140vh] bg-[url('https://bearplex.com/wp-content/uploads/2022/04/cover-bg.jpg')] mt-2 pt-[1px] md:h-[100vh] ">
+      <div className="h-[140vh] bg-[url('https://bearplex.com/wp-content/uploads/2022/04/cover-bg.jpg')] pt-[1px] md:h-[100vh] ">
         <Navbar />
         <br />
         <br />
