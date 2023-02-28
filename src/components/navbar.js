@@ -50,7 +50,7 @@ export default function Navbar() {
                 About Us
               </Link>
               <Link href="/careers" className="font-medium">
-                Careers <span className="font">- We're Hiring</span>
+                Careers <span className="font">- We re Hiring</span>
               </Link>
 
               <h1 className="font-semibold text-3xl mt-4">Our Services.</h1>

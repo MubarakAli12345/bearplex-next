@@ -15,7 +15,7 @@ function about1() {
           </h1>
           <br />
           <h1 className="text-lg">
-            and we build great products (that’s what our clients say)
+            and we build great products (thats what our clients say)
           </h1>
           <br />
 
